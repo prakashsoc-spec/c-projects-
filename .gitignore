@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.obj
+*.out
+
+bin/
+obj/
+
+*.layout
+*.depend
+*.bak
+*.save-failed
